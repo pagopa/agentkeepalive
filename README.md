@@ -1,3 +1,6 @@
+## This is a fork of agentkeepalive package  
+needed until they [fix typescript typings](https://github.com/node-modules/agentkeepalive/issues/76)
+
 # agentkeepalive
 
 [![NPM version][npm-image]][npm-url]
